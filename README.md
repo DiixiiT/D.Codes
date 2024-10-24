@@ -1,2 +1,2 @@
-# React + TypeScript + Vite
+# Deekshith's Space
 This Repo is for my portfolio
