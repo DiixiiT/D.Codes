@@ -1,10 +1,10 @@
-import './App.css'
+import "./App.css";
+import Home from "./page/Home";
 function App() {
   return (
     <>
-      <p>👋 Deekshith's Website 👋</p>
-      <p>🚧 Under construction 🚧</p>
+      <Home />
     </>
-  )
+  );
 }
-export default App
+export default App;
